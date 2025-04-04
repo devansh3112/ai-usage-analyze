@@ -1,0 +1,38 @@
+{
+  "chatgpt_conversations": [
+    {
+      "create_time": 1672531200,
+      "title": "Learning about Python"
+    },
+    {
+      "create_time": 1672617600,
+      "title": "Help with data analysis"
+    },
+    {
+      "create_time": 1672704000,
+      "title": "Code review assistance"
+    },
+    {
+      "create_time": 1672790400,
+      "title": "Debugging help"
+    },
+    {
+      "create_time": 1673395200,
+      "title": "Project planning ideas"
+    }
+  ],
+  "claude_conversations": [
+    {
+      "created_at": "2023-01-03T14:30:00.000Z",
+      "title": "Research paper summary"
+    },
+    {
+      "created_at": "2023-01-05T09:15:00.000Z",
+      "title": "Email writing assistance"
+    },
+    {
+      "created_at": "2023-01-10T16:45:00.000Z",
+      "title": "Creative writing feedback"
+    }
+  ]
+} 

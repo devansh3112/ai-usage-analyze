@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# User data exports - NEVER commit these
+**/chatgpt_export*/
+**/claude_export*/
+**/conversations.json
+**/cea1e0b1*/
+**/data-202*/
+
+# Generated visualizations - exclude by default
+visualizations/
+*.png
+
+# Misc
+.DS_Store
+Thumbs.db 
