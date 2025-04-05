@@ -19,4 +19,4 @@ IMAGE_DPI = 300
 COLOR_SCHEME_CHATGPT = 'Greens'  # Options: 'Greens', 'Blues', 'YlGn', etc.
 COLOR_SCHEME_CLAUDE = 'Oranges'  # Options: 'Oranges', 'Reds', 'YlOrBr', etc.
 FIGURE_WIDTH = 15
-FIGURE_HEIGHT = 8 
+FIGURE_HEIGHT = 8
